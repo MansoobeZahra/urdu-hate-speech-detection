@@ -1,5 +1,5 @@
 # Urdu Hate Speech Detection
-### Reproduction of Hussain et al. (2025) — NLP Assignment 3
+### Reproduction of Hussain et al. (2025) — NLP Assignment 03
 
 Reproduction of the full experiment suite from:
 
